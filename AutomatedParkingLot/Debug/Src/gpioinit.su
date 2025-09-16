@@ -1,0 +1,2 @@
+../Src/gpioinit.c:5:6:exti_gpio	16	static
+../Src/gpioinit.c:38:6:init_gpio	16	static
